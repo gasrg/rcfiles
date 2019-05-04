@@ -32,3 +32,9 @@ set laststatus=2
 set cmdheight=2
 " use 4 spaces for tabs
 set tabstop=4 softtabstop=4 shiftwidth=4
+" Disable the swap files
+set noswapfile
+
+set paste
+
+
